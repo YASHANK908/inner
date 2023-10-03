@@ -1,0 +1,3 @@
+in inline codes using sing quote or double quotes it allows only in single line codes
+for multiple lines,in inline template we must use escape quote
+

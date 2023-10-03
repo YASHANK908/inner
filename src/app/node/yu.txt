@@ -1,0 +1,2 @@
+wap to input string show uppercase,lowercase,lenghth of string
+differnce b/w property and attribute
